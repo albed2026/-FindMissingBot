@@ -38,7 +38,8 @@ cp .env.example .env
 
 ثم أضف رمز البوت الخاص بك:
 ```
-TELEGRAM_BOT_TOKEN=your_bot_token_here
+8945981508:AAHk2Z5-IAH7tIR_S5boha_zs1VzvAom6wQ
+e
 ```
 
 ### 5. تشغيل البوت
@@ -47,6 +48,7 @@ python main.py
 ```
 
 ## الحصول على رمز البوت
+
 
 1. افتح تطبيق تليجرام
 2. ابحث عن [@BotFather](https://t.me/botfather)
